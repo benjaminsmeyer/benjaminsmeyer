@@ -48,19 +48,6 @@ I build things across the full stack from AI-powered features and ML pipelines t
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=benjaminsmeyer&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Ben's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminsmeyer&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benjaminsmeyer&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### ⚡ Fun Facts
 
 - 🎬 Always watching something — movies, shows, you name it
